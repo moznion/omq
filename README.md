@@ -1,6 +1,6 @@
 # omq
 
-A processor of the [OpenMetrics](https://openmetrics.io/) format text for the command-line, and Go library.
+A text processor of the [OpenMetrics](https://openmetrics.io/) format for the command-line, and Go library.
 
 WIP WIP WIP
 
